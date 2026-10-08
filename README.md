@@ -1,75 +1,57 @@
-# NeetCode Solutions
+# NeetCode 150 Solutions
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-100%25-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/NeetCode-Interview%20Prep-FFB703?style=for-the-badge" alt="NeetCode Interview Prep" />
+  <img src="https://img.shields.io/badge/Progress-3%2F150-green?style=for-the-badge" alt="3 of 150 solved" />
 </p>
 
-A polished collection of my Python solutions for problems from [NeetCode.io](https://neetcode.io), focused on data structures, algorithms, and interview preparation.
+My Python solutions for the **NeetCode 150** - a curated list of the most important coding interview problems.
 
-## Overview
+## Progress
 
-This repository documents my progress as I work through curated coding interview problems. Each solution is organized by topic and problem name, making it easy to review, revisit, and improve implementations over time.
+**3 out of 150 problems solved** ✅
 
-The repository currently contains Python-based solutions and is structured to support continuous learning and consistent practice.
+### Solved Problems
 
-## Repository Structure
+| # | Problem | Difficulty | Solution |
+|---|---------|-----------|----------|
+| 1 | Two Integer Sum | Easy | [View](Data%20Structures%20%26%20Algorithms/two-integer-sum/) |
+| 2 | Is Anagram | Easy | [View](Data%20Structures%20%26%20Algorithms/is-anagram/) |
+| 3 | Duplicate Integer | Easy | [View](Data%20Structures%20%26%20Algorithms/duplicate-integer/) |
 
-```text
-neetcode-submissions/
-├── Data Structures & Algorithms/
-│   ├── duplicate-integer/
-│   │   ├── submission-0.py
-│   │   └── ...
-│   ├── is-anagram/
-│   │   ├── submission-0.py
-│   │   └── ...
-│   └── two-integer-sum/
-│       ├── submission-0.py
-│       ├── submission-1.py
-│       └── ...
-└── README.md
-```
+## About NeetCode 150
 
-## What You'll Find Here
+The NeetCode 150 is a hand-curated list of 150 of the most important questions from LeetCode. It follows the proven pattern of the "Blind 75" but is more comprehensive. Topics include:
 
-- Clean, problem-focused Python implementations
-- Topic-based organization for easy navigation
-- Multiple submissions for selected problems when improvements are made
-- A practical record of interview-style problem solving
+- Arrays & Hashing
+- Two Pointers
+- Sliding Window
+- Stacks
+- Binary Search
+- Linked List
+- Trees
+- Heap / Priority Queue
+- Graphs
+- Advanced Graphs
+- Dynamic Programming
+- Greedy
+- Intervals
+- Math & Geometry
+- Bit Manipulation
 
-## Current Focus
+## How to Use
 
-The repository is centered on:
+1. Navigate to any problem folder
+2. Review the Python implementation
+3. Check the comments for approach explanation
+4. Link: https://neetcode.io/practice
 
-- Arrays and Hashing
-- String manipulation
-- Searching and sorting patterns
-- Data structures and algorithmic thinking
-- Interview-level problem solving in Python
+## Next Steps
 
-## Example Problems
-
-- Duplicate Integer
-- Is Anagram
-- Two Integer Sum
-
-## How to Use This Repository
-
-1. Browse the topic folders.
-2. Open a problem directory.
-3. Review the Python implementations.
-4. Compare or refine approaches as needed.
-
-## Notes
-
-This project reflects a learning and practice workflow rather than a production application. It is intended to provide a clear, structured record of coding progress and problem-solving development.
-
-## Connect
-
-- GitHub: [@DHANUSHGCODE](https://github.com/DHANUSHGCODE)
-- NeetCode: [neetcode.io](https://neetcode.io)
+Continuing to solve more NeetCode 150 problems to build strong interview fundamentals.
 
 ---
 
-Built with Python for problem-solving, consistency, and continuous improvement.
+<p align="center">
+  Tracking progress on the NeetCode 150 journey 🚀
+</p>
